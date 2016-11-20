@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: h2t
+Version: 0.0.0
+Summary: Turn HTML into equivalent Markdown-structured text.
+Home-page: UNKNOWN
+Author: Wesagn Dawit
+Author-email: UNKNOWN
+License: iCog-Laws
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.3
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2

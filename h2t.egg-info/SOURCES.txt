@@ -1,0 +1,11 @@
+COPYING
+MANIFEST.in
+README.md
+h2t.py
+setup.py
+h2t.egg-info/PKG-INFO
+h2t.egg-info/SOURCES.txt
+h2t.egg-info/dependency_links.txt
+h2t.egg-info/entry_points.txt
+h2t.egg-info/not-zip-safe
+h2t.egg-info/top_level.txt

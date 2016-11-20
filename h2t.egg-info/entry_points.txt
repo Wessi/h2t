@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        h2t=h2t:main
+    
